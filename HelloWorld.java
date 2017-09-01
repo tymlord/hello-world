@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Kylie Minton
  */
 public class HelloWorld {
     public static void main(String[] args) {
